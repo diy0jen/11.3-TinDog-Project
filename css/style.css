@@ -35,13 +35,6 @@
   margin-bottom: 70px;
 }
 
-#title {
-  display: flex;
-  height: 90vh;
-  justify-content: center;
-  align-items: center;
-}
-
 #footer {
   height: 50vh;
 }
